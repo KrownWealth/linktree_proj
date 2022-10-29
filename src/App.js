@@ -59,19 +59,15 @@ function App() {
         </div>
 
         <div className="p-d-flex p-jc-center p-ai-center">
-        <a href="https>//training.zuri.team/">
           <div className="p-d-flex p-flex-column">
             {data.links.map((link) => (
-          <Button className="p-m-2 p-button-outlined" 
-          style={{color:colors[link.icon]}}
-          >
+          <Button className="p-m-2 p-button-outlined" style={{color:colors[link.icon]}}>
            <i className={ `pi pi-${link.icon} p-px-3`}></i> 
             
-            {link.name}
+          {link.name}
           </Button>))}
-
         </div>
-        </a>
+       
         </div>
         
     </div>
