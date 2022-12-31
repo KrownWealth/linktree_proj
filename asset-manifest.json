@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/linktree_proj/static/css/main.10837e91.css",
+    "main.js": "/linktree_proj/static/js/main.a9fd3f5d.js",
+    "static/js/787.a4ba066e.chunk.js": "/linktree_proj/static/js/787.a4ba066e.chunk.js",
+    "static/media/primeicons.svg": "/linktree_proj/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/linktree_proj/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/linktree_proj/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/linktree_proj/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/linktree_proj/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/linktree_proj/index.html",
+    "main.10837e91.css.map": "/linktree_proj/static/css/main.10837e91.css.map",
+    "main.a9fd3f5d.js.map": "/linktree_proj/static/js/main.a9fd3f5d.js.map",
+    "787.a4ba066e.chunk.js.map": "/linktree_proj/static/js/787.a4ba066e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10837e91.css",
+    "static/js/main.a9fd3f5d.js"
+  ]
+}
